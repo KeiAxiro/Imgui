@@ -29,6 +29,7 @@
 #include "HOOK.h"
 #include "Chams.h"
 #include "Unity/Vector3.h"
+#include <time.h>
 
 struct Patches {
     MemoryPatch ;
