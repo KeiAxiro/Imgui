@@ -69,7 +69,7 @@ namespace u64
 	//static float speed = 0.0f;
 	//static int banBy = 0;
 	//static int target = 0;
-	//Combo Func
+	//Combo Fun
 	static int chat2 = 0;
 	static int ID2 = 0;
 	static int SOCIAL = 0;
